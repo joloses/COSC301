@@ -1,0 +1,57 @@
+.
+|-- cellar
+|   |-- armoury
+|   |   |-- chamber
+|   |   |   |-- pieces
+|   |   |   |-- portal
+|   |   |   |   |-- library
+|   |   |   |   |   |-- scroll
+|   |   |   |   |   `-- tome
+|   |   |   |   `-- monster
+|   |   |   |-- scroll
+|   |   |   |-- spell
+|   |   |   `-- treasure
+|   |   |-- potion
+|   |   |-- scroll
+|   |   `-- treasure
+|   |-- scroll
+|   `-- treasure
+|-- chapel
+|   |-- altar
+|   |-- courtyard
+|   |   |-- aviary
+|   |   |   |-- crystal
+|   |   |   |-- hall
+|   |   |   |   |-- carcass
+|   |   |   |   |-- library
+|   |   |   |   |   |-- scroll
+|   |   |   |   |   `-- tome
+|   |   |   |   `-- treasure
+|   |   |   |-- penguin
+|   |   |   `-- scroll
+|   |   |-- fountain
+|   |   |-- rags
+|   |   `-- scroll
+|   `-- scroll
+|-- mydungeonmap.txt
+|-- scrap
+|-- scroll
+`-- vault
+    |-- glass
+    |-- scroll
+    `-- stronghold
+        |-- goblet
+        |-- nursery
+        |   |-- lab
+        |   |   |-- ghost
+        |   |   |-- platinum
+        |   |   |-- scroll
+        |   |   `-- treasure
+        |   |-- scroll
+        |   `-- spell
+        |-- orb1
+        |-- orb2
+        |-- orb3
+        `-- scroll
+
+14 directories, 40 files

@@ -1,0 +1,15 @@
+.
+|-- directory_tree.txt
+|-- level1A
+|   |-- file1.md
+|   `-- level2A
+|       |-- file2.md
+|       `-- level3A
+|           `-- file3.md
+|-- level1B
+|   |-- level2B
+|   |   `-- newfile2.md
+|   `-- newfile1.md
+`-- root.md
+
+5 directories, 7 files

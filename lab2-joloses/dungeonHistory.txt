@@ -1,0 +1,320 @@
+    1  bash --version
+    2  git --versiom
+    3  git --version
+    4  python --version
+    5  conda --version
+    6  conda config --add channels conda-forge
+    7  conda install -c conda-forge "jupyterlab=3.*"
+    8  conda install -c conda-forge "numpy=1.*"
+    9  conda install -c conda-forge "pandas=1.*"
+   10  conda install -c conda-forge "black=19.*"
+   11  conda install -c conda-forge "nbconvert=6.*"
+   12  conda install -c conda-forge "seaborn"
+   13  conda install -c conda-forge "pre-commit"
+   14  git config --global user.name joloses
+   15  git config --global user.email jolos@student.ubc.ca
+   16  git config --list --global
+   17  git clone https://github.com/firasm/test.git
+   18  code --version
+   19  code ~/.bash_profile
+   20  tree
+   21  tree
+   22  jupyter lab
+   23  pwd
+   24  cd Classes
+   25  cd Desktop
+   26  cd
+   27  cd desktop
+   28  cd Classes
+   29  cd Year 3/Sem 1
+   30  pwd
+   31  cd list
+   32  cd Year3/Sem1
+   33  cd COSC301
+   34  git clone https://github.com/ubco-W2022T1-cosc301/lab1-joloses.git
+   35  git clone https://github.com/ubco-W2022T1-cosc301/lab1-joloses.git
+   36  jupyter lab
+   37  git add Task1_Screenshot.png
+   38  cd lab1-joloses
+   39  git add Task1_screenshot.png
+   40  git commit -m "Added Task 1 Screenshot"
+   41  git push
+   42  git add Task1_Screenshot.png
+   43  git commit -m "Added Jupyter Lab screenshot"
+   44  git push
+   45  code activity.md
+   46  git add .
+   47  git commit -m "Finished Task 2 Markdown Syntax."
+   48  git push
+   49  code activity_task3.md
+   50  git add .
+   51  git commit -m "Finished Task 3 markdown syntax."
+   52  git push
+   53  code test
+   54  code test.md
+   55  pwd
+   56  cd desktop
+   57  cd Sem1
+   58  cd list
+   59  cd
+   60  cd desktop
+   61  list
+   62  pwd
+   63  cd classes/Year2/Sem1/COSC301
+   64  cd classes
+   65  cd Year2/Sem1
+   66  cd COSC301
+   67  cd COSC_301
+   68  cd
+   69  cd desktop/classes/Year3/COSC301
+   70  /cd desktop
+   71  cd desktop
+   72  cd classes/Year3
+   73  cd COSC301
+   74  cd sem1
+   75  cd COSC301
+   76  git clone https://github.com/ubco-W2022T1-cosc301/lab2-joloses.git
+   77  cd &
+   78  cd ^
+   79  cd lab1
+   80  cd lab1-joloses
+   81  git push
+   82  git push
+   83  git add .
+   84  git push
+   85  git commit -m"Updated Task 3 Syntax"
+   86  git push
+   87  cd
+   88  ls
+   89  cd desktop
+   90  ls
+   91  cd classes/year3/sem1
+   92  cd
+   93  cd desktop/classes/year3/sem1
+   94  ls
+   95  cd COSC301
+   96  ls
+   97  cd lab2-joloses/
+   98  las
+   99  ls
+  100  mkdir Task1
+  101  cd Task1
+  102  tree
+  103  ls
+  104  mkdir level1A
+  105  cd level1A/
+  106  ls
+  107  touch file1.md
+  108  ls
+  109  mkdir level2A
+  110  cd level2A
+  111  touch file2.md
+  112  mkdir level3A
+  113  touch file3.md
+  114  cd /
+  115  cd desktop/classes/year3/sem1/COSC301/lab2-joloses/Task1
+  116  cd desktop/classes
+  117  cd desktop
+  118  cd
+  119  cd desktop/classes/year3/sem1/COSC301/lab2-joloses/Task1
+  120  mkdir level1B
+  121  cd level1B
+  122  touch newfile1.md
+  123  mkdir level2B
+  124  cd level2B/
+  125  touch newfile2.md
+  126  cd ..
+  127  cd ..
+  128  touch root.md
+  129  cd Task1
+  130  ls
+  131  tree
+  132  tree
+  133  tree > directory_tree.txt
+  134  git add .
+  135  git commit -m"Finished creating the directory structure."
+  136  git push
+  137  cd ..
+  138  ls
+  139  cd entrance
+  140  ls
+  141  cat scroll
+  142  cd cellar
+  143  ls
+  144  cat scroll
+  145  alias ls='ls -F'
+  146  ls
+  147  cat treasure
+  148  cd armoury
+  149  ls
+  150  cat scroll
+  151  cd ..
+  152  ./treasure
+  153  I=amulet,$I
+  154  echo $I
+  155  ls
+  156  cd armoury
+  157  ls
+  158  ./potion
+  159  echo $HP
+  160  export HP=15
+  161  echo $HP
+  162  ./treasure
+  163  export I=sword,$I
+  164  echo $I
+  165  ls
+  166  cd chamber
+  167  ls
+  168  ./spell
+  169  ln -fs ../../../chapel/courtyard/aviary/hall portal
+  170  ls
+  171  ./treasure
+  172  export I=coins,$I
+  173  ls
+  174  ./statue
+  175  ./statue
+  176  ls
+  177  cat scroll
+  178  ./pieces
+  179  ls
+  180  cd ..
+  181  ls
+  182  cd ..
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd vault
+  187  ls
+  188  cat scroll
+  189  ./glass
+  190  ls
+  191  cd stronghold/
+  192  ls
+  193  cat scroll
+  194  cat orb1 
+  195  ls
+  196  ./goblet
+  197  cp orb1 orb2
+  198  cp orb1 orb3
+  199  ./goblet
+  200  ls
+  201  cd nursery
+  202  ls
+  203  cat scroll
+  204  ./spell
+  205  pwd
+  206  ls
+  207  cd lab
+  208  ls
+  209  cat scroll
+  210  ./ghost
+  211  ls
+  212  ./platinum
+  213  ./treasure
+  214  ./ghost
+  215  ls
+  216  cd ..
+  217  ls
+  218  cd ..
+  219  ls
+  220  cd ..
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd chapel
+  225  ls
+  226  cat scroll
+  227  cat scroll
+  228  ls
+  229  ./altar
+  230  ls
+  231  cd courtyard
+  232  ls
+  233  cat scroll
+  234  ls
+  235  ./rags
+  236  export I=rags,fish,$I
+  237  ls
+  238  cd aviary
+  239  ls
+  240  ./crystal
+  241  I=crystal,$I
+  242  ls
+  243  echo $I
+  244  ./penguin
+  245  ls
+  246  cat scroll
+  247  cd hall/
+  248  ls
+  249  ./monster
+  250  let HP=HP-15
+  251  ls
+  252  ./carcass
+  253  ./treasure
+  254  export I=crown
+  255  echo $I
+  256  cd ...
+  257  cd ..
+  258  cd ..
+  259  cd ..
+  260  cd ..
+  261  ls
+  262  git add .
+  263  git commit -m"Finished playing with the dungeon."
+  264  git push
+  265  tree
+  266  tree > mydungeonmap.txt
+  267  git add .
+  268  git commit -m"Added my dungeon map."
+  269  git push
+  270  history -250 > dungeonHistory.txt
+  271  git add .
+  272  git commit -m"Added my dungeon history."
+  273  git push
+  274  history
+  275  history -250 > dungeonHistory.txt
+  276  history > dungeonHistory1.txt
+  277  ls
+  278  cd chapel
+  279  ls
+  280  cd courtyard/
+  281  cd
+  282  cd courtyard/
+  283  pwd
+  284  cd desktop/classes/year3/sem1/COSC301/lab2-joloses/entrance
+  285  /ls
+  286  ls
+  287  cd chapel
+  288  ls
+  289  cd courtyard/
+  290  ls
+  291  cd aviary/
+  292  ls
+  293  cd hall/
+  294  ls
+  295  cd library/
+  296  ls
+  297  cat scroll
+  298  ./tome
+  299  ./tome
+  300  ls
+  301  cd ..
+  302  cd ..
+  303  ls
+  304  cat scroll
+  305  ./crystal
+  306  echo $I
+  307  I= crystal,$I
+  308  I=crystal,$I
+  309  echo$I
+  310  echo $I
+  311  cd ..
+  312  ls
+  313  cd ..
+  314  ls
+  315  ./altar
+  316  cd ..
+  317  history
+  318  history-250 > dungeonHistory.txt
+  319  history -250 > dungeonHistory.txt
+  320  history > dungeonHistory.txt
